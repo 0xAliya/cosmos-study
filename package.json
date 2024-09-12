@@ -1,0 +1,19 @@
+{
+  "name": "cosmos-study",
+  "version": "1.0.0",
+  "description": "cosmos study",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Aliya",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.4",
+    "vite-node": "^2.0.5",
+    "vitest": "^2.0.5"
+  },
+  "dependencies": {
+    "@cosmjs/proto-signing": "^0.32.4"
+  }
+}
